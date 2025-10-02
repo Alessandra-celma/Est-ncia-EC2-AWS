@@ -1,4 +1,4 @@
-# 🚀 Desafio DIO – AWS EC2: Gerenciamento de Instâncias
+# 🚀 AWS EC2: Gerenciamento de Instâncias
 
 Este repositório contém anotações e explicações práticas sobre o **Gerenciamento de Instâncias EC2 na AWS**, realizadas durante o desafio da [DIO](https://www.dio.me).
 
@@ -61,4 +61,4 @@ Gerenciar uma instância EC2 é como ser o **administrador de servidores na nuve
 - [Digital Innovation One](https://www.dio.me)
 
 ---
-👩‍💻 Desenvolvido como parte do **Desafio DIO – AWS EC2**.
+👩‍💻 AWS EC2**.
