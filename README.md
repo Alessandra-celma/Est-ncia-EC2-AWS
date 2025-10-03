@@ -1,6 +1,6 @@
 # 🚀 AWS EC2: Gerenciamento de Instâncias
 
-Este repositório contém anotações e explicações práticas sobre o **Gerenciamento de Instâncias EC2 na AWS**, realizadas durante o desafio da [DIO]
+Este repositório contém anotações e explicações práticas sobre o **Gerenciamento de Instâncias EC2 na AWS**, realizadas durante o desafio da [DIO](https://www.dio.me) .
 
 ---
 
